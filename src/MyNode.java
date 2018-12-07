@@ -5,6 +5,7 @@ package tree;
  *
  * @author Torbjorn Ekman
  * @see MyTree
+ * Test pull and local uncommitted changes
  */
 public class MyNode {
   private MyNode father;
