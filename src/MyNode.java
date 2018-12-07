@@ -2,16 +2,10 @@ package tree;
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- * Changes 1 create conflict
- * Changes merge conflic
+ *
  * @author Torbjorn Ekman
  * @see MyTree
  */
-
-
- /**
-  * Changes in branch
-  */
 public class MyNode {
   private MyNode father;
   private MyNode left;
