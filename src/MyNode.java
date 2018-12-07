@@ -7,6 +7,11 @@ package tree;
  * @author Torbjorn Ekman
  * @see MyTree
  */
+
+
+ /**
+  * Changes in branch
+  */
 public class MyNode {
   private MyNode father;
   private MyNode left;
